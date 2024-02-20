@@ -6,13 +6,13 @@
 
 -- 🔭 I’m currently working on **Dynatrace Administration**
 
-- 🌱 I’m currently learning and exploring **Python and Data Analysis **
+- 🌱 I’m currently learning and exploring **Python and Data Analysis**
 
 - 💬 Ask me about **Dynatrace, Python and Data Analysis**
 
 - 📫 How to reach me **kranthikumarpurimitla@gmail.com**
 
-- ⚡ My Own Quote and I believed in **Let the world dream as big as they can, we will execute them in the real world**
+- ⚡ My Own Quote and I believed in **"Let the world dream as big as they can, we will execute them in the real world"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
